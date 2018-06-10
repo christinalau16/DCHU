@@ -126,6 +126,7 @@
       <ExceptionHandling>
       </ExceptionHandling>
       <WppEnabled>true</WppEnabled>
+      <Optimization>Disabled</Optimization>
     </ClCompile>
     <ResourceCompile>
       <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);..\inc</AdditionalIncludeDirectories>
